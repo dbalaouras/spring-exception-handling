@@ -1,6 +1,5 @@
 package gr.bytecode.exceptionhandling.config;
 
-
 /**
  * @author Dimi Balaouras
  */

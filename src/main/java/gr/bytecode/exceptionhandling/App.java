@@ -8,14 +8,13 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
  * Entry point to the Spring App
  * 
  * @author Dimi Balaouras
- * @copyright Bytecode.gr 2015
  */
 @SpringBootApplication
 @EnableJpaRepositories
 public class App {
 
     /**
-     * description
+     * Main entry point
      *
      * @param args
      */
